@@ -52,7 +52,7 @@ Thus, the following are available in this repository: the database, which contai
 ## Créditos 
 
 O desafio, bem como muitos detalhes de sua resolução, se devem ao João Lira, do canal do 
-Youtube [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao). A base de dados foi retirada do [Kaggle](https://www.kaggle.com/).
+Youtube [Hashtag Programação](https://www.youtube.com/@HashtagProgramacao). A base de dados é uma adaptação do que foi encontrado na plataforma [Kaggle](https://www.kaggle.com/), que contém inúmeras bases de dados e desafios, alguns até pagando pela resolução.
 
 ## Contato
 
