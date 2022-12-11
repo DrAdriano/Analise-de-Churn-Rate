@@ -106,4 +106,8 @@ Criado por Adriano Jr. G. Gonçalves - Sinta-se
 <div  align="center"> 
   <a href="https://www.linkedin.com/in/sradriano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:sradriano@uel.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+>>>>>>> eb0392af28191f29839e80690698a679d5608cb9
