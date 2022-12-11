@@ -8,7 +8,7 @@
 * [Bibliotecas Python usadas](#bibliotecas-python-usadas)
 * [Passo a passo do código](#passo-a-passo-do-código)
 * [Gráficos](#gráficos)
-* [Conclusões e comentários](#conclusões-e-comentários)
+* [Conclusões](#conclusões)
 * [Créditos](#créditos)
 * [Contato](#contato)
 
@@ -64,7 +64,7 @@ Em Azul, temos as pessoas que não continuam com os serviços e, em laranja, as 
 
 ![MesesComoCliente](Gráficos/MesesComoCliente.png)
 
-## Conclusões e comentários
+## Conclusões
 
 A partir da análise dos gráficos podemos sugerir novas práticas para a empresa conseguir aumentar a fidelidade dos clientes, direcionar investigações, bem como deixar os serviços mais atrativos. Por exemplo, pode-se usar promoções e planos para direcionar o cliente para métodos que tendem a fidelizá-lo, o que acaba sendo bom para o cliente e para a empresa. Os resultados em nossa análise fazem muito sentido com o que é observado nas grandes empresas de assinaturas de serviços, como as de telecomunicações e streaming.
 
