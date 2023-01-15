@@ -6,7 +6,7 @@
 * [About the project](#about-the-project)
 * [Linguagens e tecnologias usadas](#linguagens-e-tecnologias-usadas)
 * [Bibliotecas Python usadas](#bibliotecas-python-usadas)
-* [Passo a passo do código](#passo-a-passo-do-código)
+* [Passo a passo da solução](#passo-a-passo-da-solução)
 * [Gráficos](#gráficos)
 * [Conclusões](#conclusões)
 * [Créditos](#créditos)
@@ -18,7 +18,7 @@ Esse repositório contém uma solução para um desafio envolvendo análise de d
 
 **Desafio:** Analisar os dados de uma empresa de telecomunicações, e descobrir o que pode ser feito para diminuir o Churn Rate, ou seja, a taxa de cancelamento de serviços realizados pelos clientes. Na base de dados apresentada, a Churn Rate é maior que 26%.
 
-Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações de, aproximadamente, 6000 clientes e os serviços assinados; a solução detalhada; a solução final, adaptada para o Visual Code Studio a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; e a pasta com os gráficos gerados no código.
+Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações de, aproximadamente, 6000 clientes e os serviços assinados; a solução detalhada; a solução final, adaptada para o Visual Studio Code a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; e a pasta com os gráficos gerados no código.
 
 ## About the project
 
@@ -26,7 +26,7 @@ This repository contains a solution to a challenge involving data analysis and i
 
 **Challenge:** Analyze the data of a telecommunications company, and find out what can be done to reduce the Churn Rate, that is, the rate of cancellation of services performed by customers. In the presented database, the Churn Rate is greater than 26%.
 
-The following files are available in this repository: the database, which contains information on approximately 6000 customers and subscribed services; the detailed solution; the final solution, adapted for Visual Code Studio from the detailed solution, but developed without the visual clutter of comments; and the folder with the graphics generated in the code.
+The following files are available in this repository: the database, which contains information on approximately 6000 customers and subscribed services; the detailed solution; the final solution, adapted for Visual Studio Code from the detailed solution, but developed without the visual clutter of comments; and the folder with the graphics generated in the code.
 
 ## Linguagens e tecnologias usadas
 
@@ -41,7 +41,7 @@ The following files are available in this repository: the database, which contai
 * [Pandas](https://pandas.pydata.org/)
 * [Plotly Express](https://plotly.com/python/)
 
-## Passo a passo do código
+## Passo a passo da solução
 
 * Passo 1: Importar a base de dados
 * Passo 2: Visualizar a base de dados
