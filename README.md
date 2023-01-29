@@ -14,11 +14,11 @@
 
 ## Sobre o projeto
 
-Esse repositório contém uma solução para um desafio envolvendo análise de dados e é organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python.
+Esse repositório contém uma solução para um desafio envolvendo análise de dados e é organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python. Este projeto também tem como objetivo colocar em prática, bem como documentar, alguns dos meus conhecimentos de Python, por isso nem sempre desenvolvo da maneira mais objetiva na Solução Detalhada. 
 
 **Desafio:** Analisar os dados de uma empresa de telecomunicações, e descobrir o que pode ser feito para diminuir o Churn Rate, ou seja, a taxa de cancelamento de serviços realizados pelos clientes. Na base de dados apresentada, a Churn Rate é maior que 26%.
 
-Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações de, aproximadamente, 6000 clientes e os serviços assinados; a solução detalhada; a solução final, adaptada para o Visual Studio Code a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; e a pasta com os gráficos gerados no código.
+Estão disponibilizados neste repositório os seguintes arquivos: a base de dados, que contém informações de, aproximadamente, 6000 clientes e os serviços assinados; a solução detalhada desenvolvida com o Jupyter Notebook; a solução final, adaptada para o Visual Studio Code a partir da solução detalhada, mas desenvolvida sem a poluição visual dos comentários; e a pasta com os gráficos gerados no código.
 
 ## About the project
 
