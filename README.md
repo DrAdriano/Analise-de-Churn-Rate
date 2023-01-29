@@ -14,7 +14,7 @@
 
 ## Sobre o projeto
 
-Este repositório contém uma solução para um desafio envolvendo análise de dados e é organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python. Esse é um projeto de portfólio, que também tem como objetivo colocar em prática, bem como documentar, alguns dos meus conhecimentos de Python, por isso nem sempre desenvolvo a Solução Detalhada da maneira mais objetiva. 
+Este repositório contém uma solução para um desafio envolvendo análise de dados, sendo organizado de maneira detalhada e acessível, podendo ser entendida por quem é iniciante na linguagem Python. Esse é um projeto de portfólio, que também tem como objetivo colocar em prática, bem como documentar, alguns dos meus conhecimentos de Python, por isso, nem sempre desenvolvo a Solução Detalhada da maneira mais objetiva.
 
 **Desafio:** Analisar os dados de uma empresa de telecomunicações, e descobrir o que pode ser feito para diminuir o Churn Rate, ou seja, a taxa de cancelamento de serviços realizados pelos clientes. Na base de dados apresentada, a Churn Rate é maior que 26%.
 
